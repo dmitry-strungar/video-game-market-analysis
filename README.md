@@ -1,11 +1,11 @@
-# 🎮 Game Analytics Dashboards (Tableau)
+# Game Analytics Dashboards (Tableau)
 
 Interactive Tableau dashboards for analyzing video game sales, genre trends, and platform performance.  
 The project helps identify key revenue drivers, popular genres, and regional market differences to support business decisions in the gaming industry.
 
 ---
 
-## 📊 Business Context
+## Business Context
 
 A game publisher needs to understand:
 
@@ -18,7 +18,7 @@ The analysis supports portfolio strategy, marketing focus, and platform prioriti
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze global and regional game sales
 - Identify top-performing genres and platforms
@@ -28,7 +28,7 @@ The analysis supports portfolio strategy, marketing focus, and platform prioriti
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 The Tableau dashboards include:
 
@@ -49,7 +49,7 @@ Interactive filters allow exploration by:
 
 ---
 
-## 🔍 Analytical Approach
+## Analytical Approach
 
 - Aggregation of sales metrics
 - Dimensional analysis by genre, platform, and region
@@ -59,7 +59,7 @@ Interactive filters allow exploration by:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Action and Sports genres dominate global sales
 - Platform popularity varies significantly by region
@@ -69,7 +69,7 @@ Interactive filters allow exploration by:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Tableau
 - Excel
@@ -80,7 +80,7 @@ Interactive filters allow exploration by:
 ---
 
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the `.twbx` file from the `dashboards` folder
 2. Open it in Tableau Desktop or Tableau Public
@@ -88,7 +88,7 @@ Interactive filters allow exploration by:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Analysis is based on historical sales data only
 - No user-level behavioral data available
