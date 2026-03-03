@@ -1,96 +1,95 @@
-# Game Analytics Dashboards (Tableau)
+# Дашборды игровой аналитики (Tableau)
 
-Interactive Tableau dashboards for analyzing video game sales, genre trends, and platform performance.  
-The project helps identify key revenue drivers, popular genres, and regional market differences to support business decisions in the gaming industry.
-
----
-
-## Business Context
-
-A game publisher needs to understand:
-
-- Which game genres generate the most revenue
-- Which platforms dominate in different regions
-- How sales trends change over time
-- Which games and publishers perform best
-
-The analysis supports portfolio strategy, marketing focus, and platform prioritization.
+Интерактивные дашборды в Tableau для анализа продаж видеоигр, трендов жанров и эффективности платформ.  
+Проект помогает выявить ключевые драйверы выручки, популярные жанры и региональные различия рынка для поддержки бизнес-решений в игровой индустрии.
 
 ---
 
-## Objectives
+## Бизнес-контекст
 
-- Analyze global and regional game sales
-- Identify top-performing genres and platforms
-- Compare sales across regions (NA, EU, JP, Other)
-- Detect long-term sales trends
-- Identify top games and publishers by revenue
+Издателю видеоигр необходимо понять:
 
----
+- Какие жанры игр генерируют наибольшую выручку
+- Какие платформы доминируют в разных регионах
+- Как меняются тренды продаж со временем
+- Какие игры и издатели показывают наилучшие результаты
 
-## Dashboard Features
-
-The Tableau dashboards include:
-
-- Total sales overview
-- Sales by platform
-- Sales by genre
-- Regional sales comparison
-- Top games ranking
-- Time series analysis of game releases and sales
-
-Interactive filters allow exploration by:
-
-- Year  
-- Platform  
-- Genre  
-- Region  
-- Publisher  
+Анализ поддерживает стратегию формирования портфеля, маркетинговый фокус и приоритизацию платформ.
 
 ---
 
-## Analytical Approach
+## Цели
 
-- Aggregation of sales metrics
-- Dimensional analysis by genre, platform, and region
-- Trend analysis over time
-- Ranking analysis for top performers
-- Interactive visual exploration using Tableau
-
----
-
-## Key Insights
-
-- Action and Sports genres dominate global sales
-- Platform popularity varies significantly by region
-- North America and Europe generate the highest revenue
-- Sales peaked during specific console generations
-- A small number of games generate a large share of total revenue
+- Проанализировать глобальные и региональные продажи игр
+- Определить наиболее эффективные жанры и платформы
+- Сравнить продажи по регионам (NA, EU, JP, Other)
+- Выявить долгосрочные тренды продаж
+- Определить топ-игры и издателей по выручке
 
 ---
 
-## Tech Stack
+## Функциональность дашборда
+
+Дашборды Tableau включают:
+
+- Общий обзор продаж
+- Продажи по платформам
+- Продажи по жанрам
+- Сравнение продаж по регионам
+- Рейтинг топ-игр
+- Анализ временных рядов релизов и продаж
+
+Интерактивные фильтры позволяют анализировать данные по:
+
+- Году  
+- Платформе  
+- Жанру  
+- Региону  
+- Издателю  
+
+---
+
+## Аналитический подход
+
+- Агрегация показателей продаж
+- Измерительный анализ по жанрам, платформам и регионам
+- Анализ трендов во времени
+- Ранжирование лучших результатов
+- Интерактивное визуальное исследование данных в Tableau
+
+---
+
+## Ключевые инсайты
+
+- Жанры Action и Sports доминируют в глобальных продажах
+- Популярность платформ существенно различается по регионам
+- Северная Америка и Европа генерируют наибольшую выручку
+- Пик продаж пришелся на определенные поколения консолей
+- Небольшое количество игр формирует значительную долю общей выручки
+
+---
+
+## Технологический стек
 
 - Tableau
 - Excel
-- Data Visualization
+- Визуализация данных
 - Business Intelligence
-- Exploratory Data Analysis
+- Разведочный анализ данных
 
 ---
 
+## Как использовать
 
-## How to Use
-
-1. Download the `.twbx` file from the `dashboards` folder
-2. Open it in Tableau Desktop or Tableau Public
-3. Use filters to explore the data interactively
+1. Скачайте файл `.twbx` из папки `dashboards`
+2. Откройте его в Tableau Desktop или Tableau Public
+3. Используйте фильтры для интерактивного анализа данных
 
 ---
 
-## Limitations
+## Ограничения
 
-- Analysis is based on historical sales data only
-- No user-level behavioral data available
-- Does not include marketing spend or pricing data
-- Some platforms have limited observations
+- Анализ основан только на исторических данных о продажах
+- Данные о поведении пользователей отсутствуют
+- Не учитываются данные о маркетинговых расходах и ценообразовании
+- По некоторым платформам количество наблюдений ограничено
