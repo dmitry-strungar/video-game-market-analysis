@@ -1,6 +1,6 @@
 # Game Analytics Dashboards 
 
-
+## Project Overview
 Interactive Tableau dashboards for analyzing video game sales, genre trends, and platform performance.  
 The project helps identify key revenue drivers, popular genres, and regional market differences to support business decisions in the gaming industry.
 
