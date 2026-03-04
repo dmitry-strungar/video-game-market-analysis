@@ -62,11 +62,30 @@ Interactive filters allow exploration by:
 
 ## Key Insights
 
-- Action and Sports genres dominate global sales
-- Platform popularity varies significantly by region
-- North America and Europe generate the highest revenue
-- Sales peaked during specific console generations
-- A small number of games generate a large share of total revenue
+### Genre Structure
+
+- Action and Shooter dominate PS4 sales in North America, generating over 60% of total revenue.
+- Shooter shows the highest average revenue per title (~0.75M).
+- Sports ranks third (~17–18%), but the segment is highly franchise-driven.
+- Niche genres (Strategy, Puzzle, Simulation) contribute a minimal revenue share.
+
+### Regional Distribution
+
+- North America (~284M) and Europe (~271M) are the largest markets.
+- Together they generate more than 70% of global sales.
+- Japan (~93M) represents a smaller but structurally different market.
+
+### Platform Dynamics
+
+- PS4 is the leading platform of the generation (~288M global sales).
+- Sales peaked around 2015 (~42M in North America) and declined afterward.
+- Lifecycle effects should be considered when planning releases.
+
+### Market Characteristics
+
+- Revenue distribution is highly skewed: a small number of titles generate a large share of total sales.
+- Correlation between critic scores and sales is weak (R² ≈ 0.17).
+- Commercial performance depends on marketing, IP strength, and release timing in addition to quality.
 
 ---
 
