@@ -88,6 +88,19 @@ Interactive filters allow exploration by:
 - Commercial performance depends on marketing, IP strength, and release timing in addition to quality.
 
 ---
+## Business Value
+Identifies most profitable genres and platforms  
+Highlights regional differences in revenue distribution  
+Detects lifecycle trends across console generations  
+Supports strategic decisions in game publishing and investment  
+
+## Stakeholders
+Game Publishers  
+Marketing Teams  
+Product Managers  
+Investors  
+
+---
 
 ## Tech Stack
 
