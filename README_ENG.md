@@ -66,7 +66,7 @@ Interactive filters allow exploration by:
 
 - Action and Shooter dominate PS4 sales in North America, generating over 60% of total revenue.
 - Shooter shows the highest average revenue per title (~0.75M).
-- Sports ranks third (~17–18%), but the segment is highly franchise-driven.
+- Sports ranks third (~17-18%), but the segment is highly franchise-driven.
 - Niche genres (Strategy, Puzzle, Simulation) contribute a minimal revenue share.
 
 ### Regional Distribution
