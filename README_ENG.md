@@ -106,8 +106,7 @@ Investors
 
 - Tableau
 - Excel
-- Data Visualization
-- Business Intelligence
+- Data Visualization  
 - Exploratory Data Analysis
 
 ---
